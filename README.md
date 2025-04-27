@@ -1,30 +1,16 @@
-# React + TypeScript + Vite
+# AT&T Business Quoter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cotizador AT&T Negocios para la Republica Mexicana.
 
-Currently, two official plugins are available:
+* Las cotizaciones ya incluyen __Addon Control ($30 o $50 segun el plan)__
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Esta cotizacion es solo una referencia __informativa__ y solo sirve para contratos con __10 lineas o menos__.
 
-## Expanding the ESLint configuration
+* Este cotizador no es oficial y no tiene validez legal, siempre corrobora la cotizacion con tu mesa de ayuda.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+* Por favor, revisa bien la disponibilidad, colores y precio del equipo antes de enviar la cotizacion.
 
-- Configure the top-level `parserOptions` property like this:
+* Hay algunos planes que ya no se ofrecen, verifica con tu mesa de ayuda si el plan que elegiste sigue disponible.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Ultima actualizacion: 4/26/2025
